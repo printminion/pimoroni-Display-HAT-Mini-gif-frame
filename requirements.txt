@@ -1,0 +1,4 @@
+st7789==0.0.4
+displayhatmini==0.0.1
+Pillow==8.4.0
+RPi.GPIO==0.7.0
